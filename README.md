@@ -1,4 +1,4 @@
-# gulimall
+# 分布式电商项目gulimall
 
 #### 介绍
 {**以下是码云平台说明，您可以替换此简介**
@@ -8,6 +8,10 @@
 #### 软件架构
 软件架构说明
 
+    Spring Boot + Spring Cloud + Vue + Docker + MyBatis Plus
+    ElasticSearch + Redis缓存与Lua脚本 + 性能压测 + Nginx动静分离 负载均衡 + 多线程与异步 + 单点登录与社交登录 + RabbitMQ消息队列 + Redisson分布式锁 + Seata分布式事务 + 定时任务与分布式调度 + Sentinel 服务容错 + Sleuth&Zipkin 链路追踪
+    Kubernetes 集群，实现全流程 DevOps
+    MySQL集群，Redis集群，RabbitMQ集群，ElasticSearch集群
 
 #### 安装教程
 
